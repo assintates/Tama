@@ -1,4 +1,4 @@
-# Tama
+# [Tama](https://documenter.getpostman.com/view/3473650/collection/7Lt5KLo)
 A rest API for many hentai sites such as hitomi.la,Pururin.io,hentaicafe........ and many more ! more source will be added on request.
 
 # About 
